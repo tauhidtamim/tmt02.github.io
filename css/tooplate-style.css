@@ -353,8 +353,8 @@ b, strong {
 
 .timeline-info {
   display: inline-block;
-  vertical-align: top;
-  max-width: 438px;
+  vertical-align: middle;
+  max-width: 400px;
   margin-left: 6em;
 }
 .timeline-info small {
@@ -363,7 +363,7 @@ b, strong {
   font-weight: bold;
   display: inline-block;
   vertical-align: middle;
-  margin-left: 5px;
+  margin-left: 3px;
 }
 
 .owl-carousel .owl-nav span {
