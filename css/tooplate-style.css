@@ -470,13 +470,13 @@ b, strong {
   color: #ffc200;
 }
 
-@media (min-width: auto) {
+@media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
     bottom: 50px;
   }
 }
-@media (max-width: auto) {
+@media (max-width: 991px) {
   .full-screen {
     padding-bottom: 4rem;
   }
@@ -521,7 +521,7 @@ b, strong {
     padding: 3px 20px;
   }
 }
-@media (max-width: auto) {
+@media (max-width: 580px) {
 	.animated-info {
 		min-width: 200px;
 	}
@@ -547,7 +547,7 @@ b, strong {
     margin: 10px 0 0 0;
   }
 }
-@media (max-width: auto) {
+@media (max-width: 320px) {
   .animated-text {
     margin-top: 0;
   }
