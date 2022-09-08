@@ -525,6 +525,12 @@ b, strong {
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
   }
+
+  .contact-info-item {
+    display: none;
+  }
+
+
 }
 @media (max-width: 580px) {
 	.animated-info {
