@@ -470,13 +470,13 @@ b, strong {
   color: #ffc200;
 }
 
-@media (min-width: 1270px) {
+@media (min-width: auto) {
   .owl-theme .owl-dots {
     position: relative;
     bottom: 50px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: auto) {
   .full-screen {
     padding-bottom: 4rem;
   }
