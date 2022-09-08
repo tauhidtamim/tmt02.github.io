@@ -434,7 +434,7 @@ b, strong {
   outline: none;
   box-shadow: none;
   font-weight: bold;
-  margin: 16px 0;
+  margin: 12px 0;
 }
 .contact-form .form-control:not(textarea) {
   height: 48px;
