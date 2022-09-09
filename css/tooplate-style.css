@@ -18,10 +18,10 @@ body {
   position: relative; 
 }
 
-.container {
+/* .container {
   max-width: 100% !important;
   overflow-x: hidden !important;
-}
+} */
 
 .full-screen {
   padding: 8rem 0;
@@ -202,7 +202,7 @@ b, strong {
 }
 
 .navbar-expand-sm .navbar-nav .nav-link {
-  padding: 0 20px;
+  padding: 0 15px;
 }
 
 .nav-link {
