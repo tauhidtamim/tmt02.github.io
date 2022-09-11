@@ -15,6 +15,11 @@ body {
 	margin-left: auto; */
   overflow-x: hidden;
   position: relative;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* .container {
