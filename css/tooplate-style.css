@@ -16,10 +16,10 @@ body {
   overflow-x: hidden;
   position: relative;
 
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -webkit-font-smoothing: subpixel-antialiased;
-  -moz-osx-font-smoothing: grayscale;
+   text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  -webkit-font-smoothing: subpixel-antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important; 
 }
 
 /* .container {
@@ -75,13 +75,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #212121;
-  font-size: 2.8em;
+  font-size: 2.9em;
   margin: 24px 0;
 }
 
 h2 {
   color: #353535;
-  font-size: 2.4em;
+  font-size: 2.5em;
   font-weight: bold;
 }
 
@@ -373,7 +373,7 @@ b, strong {
 }
 .timeline-info small {
   color: #474559;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   display: inline-block;
   vertical-align: middle;
