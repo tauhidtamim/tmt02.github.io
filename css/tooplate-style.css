@@ -75,13 +75,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #212121;
-  font-size: 2.9em;
+  font-size: 2.8em;
   margin: 24px 0;
 }
 
 h2 {
   color: #353535;
-  font-size: 2.5em;
+  font-size: 2.4em;
   font-weight: bold;
 }
 
@@ -96,15 +96,16 @@ b, strong {
 
 .custom-btn {
   background: #eee;
-  color: #5b5b5b;
+  /* color: #5b5b5b; */
   font-weight: bold;
-  border-radius: 50px;
-  padding: 13px 29px;
-  font-size: 14px;
+  border-radius: 35px;
+  padding: 6px 14px;
+  font-size: 12px;
   line-height: normal;
   overflow: hidden;
   transition: all 0.4s ease;
 }
+
 .custom-btn:hover {
   color: #2c61d3;
 }
@@ -115,7 +116,7 @@ b, strong {
 .custom-btn.custom-btn-bg:hover {
   background: #2c61d3;
   color: #ffffff !important;
-}
+} 
 
 .animated {
   position: relative;
